@@ -1,5 +1,5 @@
 # VOD API
-REST API for VOD app.
+REST API for VOD app (Developed with https://github.com/nadeeth/weasel).
 
 ## Installation
 
